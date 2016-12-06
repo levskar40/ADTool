@@ -1,0 +1,13 @@
+c:\users\adm-bgsslvv.eua\documents\visual studio 2012\Projects\WebApplication4\WebApplication4\bin\WebApplication4.dll
+c:\users\adm-bgsslvv.eua\documents\visual studio 2012\Projects\WebApplication4\WebApplication4\bin\WebApplication4.pdb
+c:\users\adm-bgsslvv.eua\documents\visual studio 2012\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.dll
+c:\users\adm-bgsslvv.eua\documents\visual studio 2012\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.pdb
+c:\users\adm-bgsslvv.eua\documents\visual studio 2012\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csprojResolveAssemblyReference.cache
+C:\Users\adm-bgsslvv.EUA\Documents\Visual Studio 2012\Projects\TEST\WebApplication4\bin\WebApplication4.dll
+C:\Users\adm-bgsslvv.EUA\Documents\Visual Studio 2012\Projects\TEST\WebApplication4\bin\WebApplication4.pdb
+C:\Users\adm-bgsslvv.EUA\Documents\Visual Studio 2012\Projects\TEST\WebApplication4\obj\Debug\WebApplication4.dll
+C:\Users\adm-bgsslvv.EUA\Documents\Visual Studio 2012\Projects\TEST\WebApplication4\obj\Debug\WebApplication4.pdb
+C:\Users\adm-bgsslvv.EUA\Documents\Visual Studio 2012\Projects\TEST\WebApplication4\bin\System.Management.Automation.dll
+C:\Users\adm-bgsslvv.EUA\Documents\Visual Studio 2012\Projects\TEST\WebApplication4\obj\Debug\WebApplication4.csprojResolveAssemblyReference.cache
+C:\Users\adm-bgsslvv.EUA\Documents\Visual Studio 2012\Projects\TEST_old\WebApplication4\obj\Debug\WebApplication4.csprojResolveAssemblyReference.cache
+C:\Users\adm-bgsslvv.EUA\Documents\Visual Studio 2012\Projects\ADtool\WebApplication4\obj\Debug\WebApplication4.csprojResolveAssemblyReference.cache
